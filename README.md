@@ -1,2 +1,4 @@
-# Passive-lability
-Materials on typology of passive lability
+# Passive lability
+
+This is a small project dealing with the typology of morphologically uncoded passive alternations or passive lability. It originates from my work on the Northwest Caucasian languages, in particular, on Abaza, and has started from a short paper I wrote in 2023 for the [volume](https://sashavydrina.tilda.ws/inmemoriam) in memory of my friend Sasha Vydrina, who has published on this topic in Kakabe, a language of the Mande family in West Africa. Passive lability is widespread in the Mande languages and West Africa in general, however, it has not yet been studied from a cross-linguistic perspective. In this project, I aim at collecting data on passive lability from as many languages in which it is documented as possible and to explore
+its distribution across genealogical groupings and areas as well as its cross-linguistic variation along a number of parameters.
